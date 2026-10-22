@@ -1,0 +1,122 @@
+COMSS dns
+130.255.77.28 ntc.party
+62.233.36.83 game.brawlstarsgame.com
+81.17.20.82 game.clashroyaleapp.com
+81.17.20.84 game.squadbustersgame.com
+81.17.20.86 gamea.clashofclans.com
+2.27.118.34 accounts.supercell.com
+2.27.118.34 store.supercell.com
+
+# ChatGPT (OpenAI)
+157.22.178.170 chatgpt.com
+45.88.174.254 chatgpt.com
+157.22.178.170 www.chatgpt.com
+157.22.178.170 ab.chatgpt.com
+157.22.178.170 auth.openai.com
+157.22.178.170 auth0.openai.com
+157.22.178.170 platform.openai.com
+157.22.178.170 cdn.oaistatic.com
+157.22.178.170 files.oaiusercontent.com
+157.22.178.170 tcr9i.chat.openai.com
+157.22.178.170 webrtc.chatgpt.com
+157.22.178.170 android.chat.openai.com
+157.22.178.170 ios.chat.openai.com
+157.22.178.170 api.openai.com
+157.22.178.170 operator.chatgpt.com
+157.22.178.170 videos.openai.com
+157.22.178.170 developers.openai.com
+157.22.178.170 oaiusercontent.com
+157.22.178.170 oaistatic.com
+157.22.178.170 openai.com
+157.22.178.170 www.openai.com
+
+# Google Gemini & AI Studio
+157.22.178.170 gemini.google.com
+45.88.174.254 gemini.google.com
+157.22.178.170 gemini.google
+157.22.178.170 aistudio.google.com
+157.22.178.170 ai.google.dev
+157.22.178.170 generativelanguage.googleapis.com
+157.22.178.170 alkalicore-pa.clients6.google.com
+157.22.178.170 alkalimakersuite-pa.clients6.google.com
+157.22.178.170 webchannel-alkalimakersuite-pa.clients6.google.com
+157.22.178.170 geminiweb-pa.clients6.google.com
+157.22.178.170 proactivebackend-pa.googleapis.com
+157.22.178.170 robinfrontend-pa.googleapis.com
+157.22.178.170 notebooklm.google.com
+157.22.178.170 notebooklm.google
+157.22.178.170 notebooklm-pa.googleapis.com
+157.22.178.170 jules.google.com
+157.22.178.170 labs.google
+
+# Claude AI (Anthropic)
+157.22.178.170 claude.ai
+45.88.174.254 claude.ai
+157.22.178.170 www.claude.ai
+157.22.178.170 anthropic.com
+157.22.178.170 api.anthropic.com
+157.22.178.170 api.claude.ai
+157.22.178.170 auth.anthropic.com
+157.22.178.170 console.anthropic.com
+157.22.178.170 claudeusercontent.com
+157.22.178.170 a-api.anthropic.com
+157.22.178.170 a-cdn.anthropic.com
+157.22.178.170 s-cdn.anthropic.com
+
+# Grok / X.AI & OpenRouter & DeepL & ElevenLabs
+157.22.178.170 grok.com
+157.22.178.170 www.grok.com
+157.22.178.170 accounts.x.ai
+157.22.178.170 api.x.ai
+157.22.178.170 assets.grok.com
+157.22.178.170 x.ai
+157.22.178.170 openrouter.ai
+157.22.178.170 elevenlabs.io
+157.22.178.170 api.elevenlabs.io
+157.22.178.170 deepl.com
+157.22.178.170 www.deepl.com
+157.22.178.170 api.deepl.com
+
+# Cursor & Windsurf & JetBrains
+157.22.178.170 cursor.com
+157.22.178.170 api2.cursor.sh
+157.22.178.170 api3.cursor.sh
+157.22.178.170 authenticate.cursor.sh
+157.22.178.170 marketplace.cursorapi.com
+157.22.178.170 codeium.com
+157.22.178.170 windsurf.com
+157.22.178.170 jetbrains.com
+157.22.178.170 account.jetbrains.com
+157.22.178.170 plugins.jetbrains.com
+157.22.178.170 download.jetbrains.com
+157.22.178.170 api.jetbrains.ai
+
+# Microsoft (Copilot, Designer, Xbox)
+157.22.178.170 copilot.microsoft.com
+157.22.178.170 designer.microsoft.com
+157.22.178.170 sydney.bing.com
+157.22.178.170 edgeservices.bing.com
+157.22.178.170 auth.xboxlive.com
+157.22.178.170 xsts.auth.xboxlive.com
+157.22.178.170 titlestorage.xboxlive.com
+157.22.178.170 gssv-play-prod.xboxlive.com
+157.22.178.170 xgpuweb.gssv-play-prod.xboxlive.com
+
+# Spotify, Canva, Notion, Twitch
+157.22.178.170 spotify.com
+157.22.178.170 www.spotify.com
+157.22.178.170 open.spotify.com
+157.22.178.170 accounts.spotify.com
+157.22.178.170 api.spotify.com
+157.22.178.170 login5.spotify.com
+157.22.178.170 spclient.wg.spotify.com
+157.22.178.170 gew1-spclient.spotify.com
+157.22.178.170 canva.com
+157.22.178.170 www.canva.com
+157.22.178.170 static.canva.com
+157.22.178.170 notion.so
+157.22.178.170 www.notion.so
+157.22.178.170 notion.com
+157.22.178.170 app.notion.com
+157.22.178.170 gql.twitch.tv
+157.22.178.170 usher.ttvnw.net
